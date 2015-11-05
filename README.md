@@ -5,7 +5,7 @@
 - See [MainActivity](app/src/main/java/com/bentals/screenrotation/MainActivity.java) for orientation state handling.
 
 
-![alt tag](Screenshot_2015-11-05-22-14-28.png)
-
 
 ![alt tag](Screenshot_2015-11-05-22-14-33.png)
+
+![alt tag](Screenshot_2015-11-05-22-14-28.png)
